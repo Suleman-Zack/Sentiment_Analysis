@@ -7,16 +7,16 @@ The online business is hugely affected by the ratings and reviews users provide 
 
 ## Project Objective
 The main project objective is to:
-* classify the sentiment of user reviews
+* Classify the sentiment of user reviews
 
 ## Procedure
-*Importation of libraries
-*Data ingestion and exploration
-*Data cleaning
-*Feature engineering
-*Modelling with imbalnced data
-*Resampling technique application
-*Modelling with balnced data
+* Importation of libraries
+* Data ingestion and exploration
+* Data cleaning
+* Feature engineering
+* Modelling with imbalnced data
+* Resampling technique application
+* Modelling with balnced data
 
 ## Data
 The data contains the reviews of about users on the baby products on Amazon. The data was obtained from source1
