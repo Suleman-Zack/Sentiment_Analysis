@@ -1,5 +1,6 @@
 # Sentiment_Analysis
-## Project Description
+![sentiment](https://user-images.githubusercontent.com/63692930/130998835-57cf6830-e5c2-4128-b756-b9ed4c4d7154.jpg)
+
 The amazon product sentiment is a popular NLP project in the Machine Learning industry. In this digitalized world e-commerce is taking the ascendancy by making products available within the reach of customers where the customer doesn't have to go out of their house. As now a day's people are relying on online products so the importance of a review is going higher. For selecting a product, a customer needs to go through thousands of reviews to understand a product. But in this prospering day of machine learning, going through thousands of reviews would be much easier if a model is used to polarize those reviews and learn from it. We used supervised learning method on a large scale amazon dataset to polarize it and get satisfactory accuracy.
 
 ## Problem Statement
